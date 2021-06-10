@@ -18,6 +18,10 @@ This example shows how to implement a **GraphQL server with TypeScript** with th
 
 ## Getting started
 
+### In an ephemeral cloud-based development environment
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#EXAMPLE_DIR=typescript/graphql/https://github.com/mikenikles/prisma-examples/tree/configure-gitpod)
+
 ### 1. Download example and install dependencies
 
 Download this example:
