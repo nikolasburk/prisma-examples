@@ -18,7 +18,7 @@ This example shows how to implement a **GraphQL server with TypeScript** with th
 
 ## Getting started
 
-### In an ephemeral cloud-based development environment
+You can either follow the instructions below to run the example project locally on your machine _or_ run it directly in your browser via [Gitpod](https://www.gitpod.io/). 
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#EXAMPLE_DIR=typescript%2Fgraphql/https://github.com/mikenikles/prisma-examples/tree/configure-gitpod)
 
